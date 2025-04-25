@@ -15,10 +15,3 @@ This project demonstrates how to deploy a basic Apache web server on an AWS EC2 
 - AWS CLI configured with appropriate credentials
 - An existing AWS key pair (`key_name` used in `main.tf`)
 
-## 🚀 How to Deploy
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/terraform-webserver.git
-cd terraform-webserver
